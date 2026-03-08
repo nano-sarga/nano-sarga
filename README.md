@@ -1,4 +1,76 @@
-## ωᥱℓᥴ𐐫mᥱ! *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
+## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮! *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
+
+<h1 align="center">𝓗𝓲, 𝓘 '𝓶 𝓝𝓸𝓻𝓲!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+there+;I'm+Nori;Applied+Mathematics+%26+Computer+Science student;Curious+about algorithms and systems;Exploring complex things in tech" />
+</p>
+
+---
+
+
+### ଘ(੭ ᐛ )━☆ﾟ.*･｡ﾟ About
+
+* Applied Mathematics & Informatics student of Russian-Armenian University
+* Interested in algorithms, data structures and their implementation
+* Linux user
+* Exploring systems programming and low-level concepts
+* I enjoy building tools that demonstrate theoretical concepts in practice
+* Curious about complex systems and challenging problems in technology.
+* I enjoy diving into difficult topics and understanding how things work under the hood.
+
+
+
+### Tech 🛠
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,git,bash,vscode" />
+</p>
+
+Languages and tools I mostly work with revolve around low-level development, algorithms and Linux-based environments.
+
+
+### Currently Working On ⏻
+
+* A console program that organizes university course materials and demonstrates theoretical concepts with code.
+* An online Battleship game using client–server architecture and sockets.
+* Experimenting with turning small console games into a possible retro-style collection in the future.
+
+These projects are mainly experiments for learning algorithms, networking and program architecture.
+
+
+### Currently Learning ✎ᝰ.
+
+* Data Structures
+* Graph Theory
+* Operating Systems
+* Algorithm Analysis
+* Computer Networks
+
+
+### GitHub Stats ﮩ٨ـ
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nano-sarga&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nano-sarga&layout=compact&theme=radical" />
+</p>
+
+### Activity ✮⋆˙
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nano-sarga\&theme=github-dark)
+
+
+### Focus 𖦏
+
+* improving understanding of algorithms and data structures
+* building practical tools from theoretical concepts
+* exploring systems programming and networking
+
+---
+
+<p align="center">
+Curious about algorithms, systems or low-level programming? Feel free to explore the repositories.
+</p>
 
 <!--
 
