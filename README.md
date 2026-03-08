@@ -2,11 +2,6 @@
 
 <h1 align="center">𝓗𝓲, 𝓘 '𝓶 𝓝𝓸𝓻𝓲!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+there+;I'm+Nori;Applied+Mathematics+%26+Computer+Science student;Curious+about algorithms and systems;Exploring complex things in tech" />
-</p>
-
----
 
 
 ### ଘ(੭ ᐛ )━☆ﾟ.*･｡ﾟ About
