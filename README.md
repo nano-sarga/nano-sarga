@@ -19,7 +19,7 @@
 ### Tech 🛠
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,assembly,linux,git,bash,clion" />
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,git,bash,clion" />
 </p>
 
 Languages and tools I mostly work with revolve around low-level development, algorithms and Linux-based environments.
